@@ -1,0 +1,30 @@
+    .container,
+    .content {
+        text-align: center;
+    }
+    
+    .name {
+        font-style: oblique;
+    }
+    
+    .posted,
+    .text {
+        color: gray;
+    }
+    
+    img {
+        margin-top: 15px;
+        text-decoration: none;
+        background-position: center;
+        object-fit: cover;
+    }
+    
+    .text {
+        padding: 0px 150px;
+    }
+    
+    button {
+        background-color: white;
+        border: 0px solid white;
+        margin-bottom: 20px;
+    }
