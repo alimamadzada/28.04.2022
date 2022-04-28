@@ -1,0 +1,43 @@
+.container {
+    text-align: center;
+    margin: 50px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.bi-facebook {
+    color: #4267B2;
+    border-radius: 100%;
+    border: 1px solid #4267B2;
+    padding: 10px;
+}
+
+.bi-twitter {
+    color: #00acee;
+    border-radius: 100%;
+    border: 1px solid #00acee;
+    padding: 10px;
+}
+
+.bi-instagram {
+    color: #405DE6;
+    border-radius: 100%;
+    border: 1px solid #405DE6;
+    padding: 10px;
+}
+
+.bi-linkedin {
+    color: #0072b1;
+    border-radius: 100%;
+    border: 1px solid #0072b1;
+    padding: 10px;
+}
+
+.bi-telegram {
+    color: #229ED9;
+    border-radius: 100%;
+    border: 1px solid #229ED9;
+    padding: 10px;
+}
